@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🌱 I’m a beginner of python
 <!--
 **1047gyu/1047gyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
